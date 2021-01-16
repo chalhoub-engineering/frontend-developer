@@ -54,7 +54,7 @@ Test all the things. We are going to focus on functional tests. We can use Mocha
 - We like PWA, use it if you can
 - Use loading shimmer ([article](https://medium.com/@dhilipkmr/the-loading-shimmer-f7129ac41894))
 - Add at least 1 micro-interaction ([article](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7))
-
+- Add additional pages, maybe some langing page or product list page
 
 ### Deployment
 
