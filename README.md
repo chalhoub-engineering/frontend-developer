@@ -35,7 +35,7 @@ Required data:
 - main product data (image url, title, price, available sizes, colors description)
 - see more products (products image urls)
 
-Consider those files to be your API, feel free to put them online to make a proper calls.
+Consider those files to be your API, feel free to put them online to be able to do a proper calls.
 
 ### STEP 3
 
@@ -53,7 +53,7 @@ Test all the things. We are going to focus on functional tests. We can use Mocha
 
 - We like PWA, use it if you can
 - Use loading shimmer ([article](https://medium.com/@dhilipkmr/the-loading-shimmer-f7129ac41894))
-- Add at least 1 micro-interaction ([article](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Loading))
+- Add at least 1 micro-interaction ([article](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7))
 
 
 ### Deployment
