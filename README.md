@@ -15,7 +15,7 @@ Usage of GIT is required. **Create a repository for this task, solution for each
 
 ### Required Technology
 - TypeScript
-- React - steps 3 and 4
+- React - steps 3, 4 and 5
 
 ### Layout
 
