@@ -4,8 +4,6 @@ Create an application frontend based on provided layout.
 
 All elements of the shared layout should be functional, it's up to you how they will work at the end.
 
-Usage of GIT is required. **Create a repository for this task, solution for each STEP should be in a separate branch in your repository**
-
 ### Considerations
 
 - The documentation starting on the README.md file need to be clear
@@ -14,6 +12,7 @@ Usage of GIT is required. **Create a repository for this task, solution for each
 - Each step must be done in a separate branch
 
 ### Required Technology
+- Git
 - TypeScript
 - React - steps 3, 4 and 5
 
